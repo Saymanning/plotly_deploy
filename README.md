@@ -2,7 +2,7 @@
 
 ## Overview of the Project:
 
-The purpose of this project was create an interactive dashboard utilizing Plotly, JavaScript, HTML, and CSS to create engaging and dynamic charts to display the study results and data, which catalogs the microbes that colonize human navels.
+The purpose of this project was create an interactive dashboard utilizing Plotly, JavaScript, HTML, and CSS to create engaging and dynamic charts to display the study results and data, which catalogs the microbes that colonize in human navels.
 
 **Here is a screenshot of the dashboard.**
 
